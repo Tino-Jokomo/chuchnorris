@@ -170,7 +170,7 @@ app.listen(9000,()=>{
 
 */
 const server = new ApolloServer({ typeDefs, resolvers });
-server.listen({ port: 9000 })
+server.listen(9000,'192.168.1.55')
     .then(({ url }) => console.log(`Server running at ${url}`));
 
 

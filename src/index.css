@@ -104,3 +104,32 @@ code {
   padding:0.5rem;
   margin-bottom:1rem;
 }
+
+@media (max-width: 991px) {
+  .body_jokes {
+    width: 90%;
+  }
+  .headings {
+    font-size: 16px;
+  }
+  .top_wrapper {
+    padding: 5%;
+  }
+  .App-logo {
+    width: 90%;
+    height: auto !important;
+  }
+  .main {
+    padding: 5%;
+  }
+}
+
+@media (max-width: 480px) {
+  .App-logo {
+    width: 275px;
+    height: auto !important;
+  }
+  .headings {
+    font-size: 10px;
+  }
+}
