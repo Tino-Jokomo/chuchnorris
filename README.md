@@ -8,6 +8,6 @@ A) :- Fork this project in CodeSandbox and follow the ReadMe in that project (in
 
 B) :- Email me to turn on the server (I will try leave it on anyway so that at any moment, testing this client should yield the desired result. Email me @- tjokomo@gmail.com
 
-C) :-  Fork this project here on github and when running it in your local machine cd into src -> cd src . And run the server.js file -> node server.js
+C) :-  Fork the master branch of the project here on github and when running it in your local machine cd into src -> cd src . And run the server.js file -> node server.js before running the main React App with -> npm start .
 
 Thats it ! :) I hope you enjoy this little project i have developed . It's been an interesting couple of days learning GraphQL, Apollo Client and Apollo Server. I hope to improve on this for the future !
