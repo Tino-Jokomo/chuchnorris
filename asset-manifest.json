@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/chucknorris/static/css/main.f8b2b0dd.chunk.css",
+    "main.js": "/chucknorris/static/js/main.755a2432.chunk.js",
+    "main.js.map": "/chucknorris/static/js/main.755a2432.chunk.js.map",
+    "runtime-main.js": "/chucknorris/static/js/runtime-main.86a046c5.js",
+    "runtime-main.js.map": "/chucknorris/static/js/runtime-main.86a046c5.js.map",
+    "static/js/2.b1c240b5.chunk.js": "/chucknorris/static/js/2.b1c240b5.chunk.js",
+    "static/js/2.b1c240b5.chunk.js.map": "/chucknorris/static/js/2.b1c240b5.chunk.js.map",
+    "static/js/3.c1e902c6.chunk.js": "/chucknorris/static/js/3.c1e902c6.chunk.js",
+    "static/js/3.c1e902c6.chunk.js.map": "/chucknorris/static/js/3.c1e902c6.chunk.js.map",
+    "index.html": "/chucknorris/index.html",
+    "static/css/main.f8b2b0dd.chunk.css.map": "/chucknorris/static/css/main.f8b2b0dd.chunk.css.map",
+    "static/js/2.b1c240b5.chunk.js.LICENSE.txt": "/chucknorris/static/js/2.b1c240b5.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/chucknorris/static/media/Kiona-Regular.743f23a1.ttf",
+    "static/media/giphy.2fd96194.gif": "/chucknorris/static/media/giphy.2fd96194.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86a046c5.js",
+    "static/js/2.b1c240b5.chunk.js",
+    "static/css/main.f8b2b0dd.chunk.css",
+    "static/js/main.755a2432.chunk.js"
+  ]
+}
