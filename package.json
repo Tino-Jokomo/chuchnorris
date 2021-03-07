@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "homepage": "http://Tino-Jokomo.github.io/chucknorris",
+=======
+  "homepage": "http://Tino-Jokomo.github.io/chucknorrisv1",
+>>>>>>> 3d1efabf2fa2135d819484fb79de64b93462a768
   "name": "chucknorris",
   "version": "0.1.0",
   "private": true,
