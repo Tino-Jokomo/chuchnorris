@@ -1,5 +1,5 @@
 # chucknorrisv1
-Link to the client-side app of this repo:
+
 
 Hi Thank you for coming across this Repo. So Essentially this code allows one to run the client side of a ChuckNorris Single Page App I developed for a SovTech test.
 To get the full app running correctly (As it wont work properly without the server running - which will be seen by an error popping up(or nothing happening) after a category is clicked)
